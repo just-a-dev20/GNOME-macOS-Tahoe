@@ -4,12 +4,6 @@
 <p align="center"> <b> A macOS Tahoe like theme for GNOME Desktops </b> </p>
 <br>
 
-## Donate
-
-If you like my project, you can buy me a coffee, many thanks ❤️ !
-
-<a href="https://www.buymeacoffee.com/kayozxo"><img src="screenshots/bmc-button.png" width="120" height="40"/></a>
-
 # Installation is easy!
 
 <details> <summary> Recommended applications </summary>
