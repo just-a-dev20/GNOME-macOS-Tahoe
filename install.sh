@@ -33,7 +33,7 @@ THEME_DIR="$HOME/.themes"
 GTK4_CONFIG_DIR="$HOME/.config/gtk-4.0"
 DOWNLOADS_DIR="$(xdg-user-dir DOWNLOAD 2>/dev/null || echo "$HOME/Downloads")"
 TMP_DIR="$(mktemp -d -t tahoe-installer.XXXXXXXXXX)"
-APP_LAUNCHER="kayozxo/ulauncher-liquid-glass"
+APP_LAUNCHER="just-a-dev20/ulauncher-liquid-glass"
 TMP_ZIP_AL="ulauncher-liquid-glass.zip"
 
 AVAILABLE_COLORS=(blue green purple pink orange red teal indigo rose emerald violet amber cyan lime sky slate)
